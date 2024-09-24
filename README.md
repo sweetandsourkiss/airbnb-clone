@@ -8,8 +8,8 @@ clone with [nomadcoders](https://github.com/serranoarevalo)'s lecture: [[풀스�
 - [x] #1 SET UP
 - [x] #2 OOP WITH PYTHON
 - [x] #3 DJANGO BASICS
-- [ ] #4 DJANGO APPS
-- [ ] #5 USERS APP
+- [x] #4 DJANGO APPS
+- [x] #5 USERS APP
 - [ ] #6 MODELS AND ADMIN
 - [ ] #7 ORM
 - [ ] #8 POWER ADMIN
