@@ -10,7 +10,7 @@ clone with [nomadcoders](https://github.com/serranoarevalo)'s lecture: [[풀스�
 - [x] #3 DJANGO BASICS
 - [x] #4 DJANGO APPS
 - [x] #5 USERS APP
-- [ ] #6 MODELS AND ADMIN
+- [x] #6 MODELS AND ADMIN
 - [ ] #7 ORM
 - [ ] #8 POWER ADMIN
 - [ ] #9 URLS AND VIEWS
