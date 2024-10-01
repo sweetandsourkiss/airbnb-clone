@@ -11,8 +11,8 @@ clone with [nomadcoders](https://github.com/serranoarevalo)'s lecture: [[풀스�
 - [x] #4 DJANGO APPS
 - [x] #5 USERS APP
 - [x] #6 MODELS AND ADMIN
-- [ ] #7 ORM
-- [ ] #8 POWER ADMIN
+- [x] #7 ORM
+- [x] #8 POWER ADMIN
 - [ ] #9 URLS AND VIEWS
 - [ ] #10 DJANGO REST FRAMEWORK
 - [ ] #11 REST API
