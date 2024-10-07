@@ -14,7 +14,7 @@ clone with [nomadcoders](https://github.com/serranoarevalo)'s lecture: [[풀스�
 - [x] #7 ORM
 - [x] #8 POWER ADMIN
 - [x] #9 URLS AND VIEWS
-- [ ] #10 DJANGO REST FRAMEWORK
+- [x] #10 DJANGO REST FRAMEWORK
 - [ ] #11 REST API
 - [ ] #12 USERS API
 - [ ] #13 CHECKPOINT
