@@ -16,7 +16,7 @@ clone with [nomadcoders](https://github.com/serranoarevalo)'s lecture: [[풀스�
 - [x] #9 URLS AND VIEWS
 - [x] #10 DJANGO REST FRAMEWORK
 - [x] #11 REST API
-- [ ] #12 USERS API
+- [x] #12 USERS API
 - [ ] #13 CHECKPOINT
 - [ ] #14 GRAPHQL API
 - [ ] #15 AUTHENTICATION
