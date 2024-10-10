@@ -20,7 +20,7 @@ clone with [nomadcoders](https://github.com/serranoarevalo)'s lecture: [[풀스�
 - [ ] #13 CHECKPOINT
 - [ ] #14 GRAPHQL API
 - [x] #15 AUTHENTICATION
-- [ ] #16 API TESTING
+- [x] #16 API TESTING
 - [ ] #17 FRONT-END SETUP
 - [ ] #18 CHAKRA UI
 - [ ] #19 REACT QUERY
